@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Dashboard | Klorofil - Free Bootstrap Dashboard Template</title>
+	<title>Grupo-Selkar</title>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
@@ -25,7 +25,7 @@
 <body>
 	<!-- WRAPPER -->
 	<div id="wrapper">
-        
+
 		@include('componentes/navbar')
 		@include('componentes/sidevar')
 
