@@ -13,6 +13,7 @@ class CreateProductosTable extends Migration
             $table->id();
             $table->string('nombre');
             $table->string('descripcion');
+            $table->string('imagen');
             $table->timestamps();
         });
     }
