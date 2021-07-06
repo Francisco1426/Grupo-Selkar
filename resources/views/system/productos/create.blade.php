@@ -1,4 +1,4 @@
-<form action="{{ url('/productos/producto')}}" method="POST" enctype="multipart/form-data">
+<form action="" method="POST" enctype="multipart/form-data">
     {{csrf_field()}}
     <div class="modal" id="ModalCreate" tabindex="-1" role="dialog">
         <div class="modal-dialog" role="document">
