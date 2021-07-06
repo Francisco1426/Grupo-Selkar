@@ -8,19 +8,11 @@ use Session;
 
 class ProductosController extends Controller
 {
-<<<<<<< HEAD
-    public function index()
-
-    {
-        return view('system.productos.index');
-    }
-}
-=======
 
    public function index()
    {
         $productos = producto::paginate();
-       return view('system.productos.index',compact('productos'));   
+       return view('system.productos.index',compact('productos'));
    }
 
    public function create()
@@ -38,9 +30,8 @@ class ProductosController extends Controller
 
    public function destroy($id)
    {
-      
+
    }
 
 
 }
->>>>>>> main
