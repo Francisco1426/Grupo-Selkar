@@ -9,11 +9,10 @@
             <!-- OVERVIEW -->
             <div class="panel panel-headline">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Reporte Productos</h3>
+                    <h3 class="panel-title">Reporte Clientes</h3>
                     <p class="panel-subtitle">Listado de productos</p>
                 </div>
                 <div class="panel-body">
-
                     <a href="" class="btn btn-success" data-toggle="modal" data-target="#ModalCreate">Nuevo Producto</a>
                     <br><br>
                     <div class="card-body">
