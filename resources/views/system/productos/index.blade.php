@@ -10,7 +10,7 @@
             <div class="panel panel-headline">
                 <div class="panel-heading">
                     <h3 class="panel-title">Reporte Productos</h3>
-                    <p class="panel-subtitle">Se muestran todos los productos que tienes dados de alta</p>
+                    <p class="panel-subtitle">Listado de productos</p>
                 </div>
                 <div class="panel-body">
 
